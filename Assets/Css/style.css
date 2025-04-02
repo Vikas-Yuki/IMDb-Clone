@@ -4,3 +4,6 @@ nav{
 nav .a:hover{
     color: #fff;
 }
+.bi.bi-star{
+   color: blue;
+}
