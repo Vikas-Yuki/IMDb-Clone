@@ -7,3 +7,13 @@ nav .a:hover{
 .bi.bi-star{
    color: blue;
 }
+.bootstrap-icons{
+   border-radius: 50px;
+   border-color: #fff;
+}
+.bootstrap-icons-2{
+    border-radius: 10px;
+    border-color: #fff;  
+ }
+
+
