@@ -5,19 +5,6 @@ nav .a:hover{
     color: #fff;
 }
 
-.bi.bi-star{
-   color: blue;
-}
-.bi-ticket-fill{
-    color: rgb(61, 61, 232);
-    transform: rotate(60deg);   
-}
-.rotate-ticket{
-    display: inline-block;
-    transform: rotate(120deg);
-    margin-left: 60%;
-}
-
 .bootstrap-icons{
    border-radius: 50px;
    border-color: #fff;
@@ -26,8 +13,6 @@ nav .a:hover{
     border-radius: 10px;
     border-color: #fff;  
  }
- .boxoffice{
-    font-size: 18px;
- }
+ 
 
 
