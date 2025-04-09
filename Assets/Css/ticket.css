@@ -5,8 +5,11 @@
 .rotate-ticket{
     display: inline-block;
     transform: rotate(120deg);
-    margin-left: 60%;
+    /* margin-left: 60%; */
 }
 .boxoffice{
     font-size: 18px;
+ }
+ .boxoffice-entry{
+    width: 100%;
  }
