@@ -2,31 +2,3 @@
     margin-left: 600px;
 
 }
-.blackcloverbg .blackcloverbg {
-    position: relative;
-    background: url(/Assets/Images/aizen.jpg) no-repeat center center;
-    background-size: cover;
-    overflow: hidden;
-    padding: 50px 20px; /* some padding to push the content */
-    margin: 20px auto;
-    width: 90%; /* or 100% depending */
-    min-height: 500px; /* very important to force height */
-    border-radius: 10px; /* optional for nice corners */
-  }
-
-  .blackcloverbg::before {
-    content: "";
-    background: inherit;
-    filter: blur(10px);
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-  }
-
-  .blackcloverbg > * {
-    position: relative;
-    z-index: 1;
-  }
